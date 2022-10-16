@@ -1,1 +1,2 @@
 Wynik dodawania: 14 + 14 = 28
+Wynik dodawania: 900 + 900 = 1800
